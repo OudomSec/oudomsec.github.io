@@ -1,0 +1,5 @@
+<section id="nav">
+    {% for menu in site.data.nav %}
+    <a href="{{ menu.link }}" class="btn">{{ menu.title }}</a>
+    {% endfor %}
+  </section>

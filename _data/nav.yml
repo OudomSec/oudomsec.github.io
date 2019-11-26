@@ -1,0 +1,29 @@
+- title : Home
+  link: /
+
+- title : CTF
+  link: /ctf/
+  subitem:
+    title: Crypto
+    link: /ctf/crypto
+
+- title: Malware
+  link: /malware/
+  
+- title: Network
+  link: /network/
+
+- title: Cyber News
+  link: /cybernews/
+
+- title: Programming
+  link: /programming/
+
+- title: Quote
+  link: /quote/
+
+- title: Contact
+  link: /contact/
+
+- title: About
+  link: /about/
