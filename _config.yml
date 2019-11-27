@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal blog, here you can find something relate to cyber security such as Cyber News, CTF Guide, Hacking Method, Useful tools for hacking blah blah blah, inspired and taught by my Senior 0xDaro.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Domenic
-github_username:  OudomSec
+twitter_username: Rattanakoudom2
+# github_username:  OudomSec
 
 # Build settings
 theme: jekyll-theme-hacker
