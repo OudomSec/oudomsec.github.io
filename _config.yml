@@ -29,13 +29,18 @@ twitter_daro: 0xDaro
 
 # Build settings
 theme: jekyll-theme-hacker
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
 
 google_analytics: false
 
 sass:
   sass_dir: _sass
+
+paginate: 3
+paginate_path: "/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

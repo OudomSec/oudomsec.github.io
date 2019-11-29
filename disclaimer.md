@@ -4,8 +4,6 @@ title: Disclaimer
 permalink: /disclaimer/
 ---
 
-# Disclaimer
-
 ```Disclaimer
 1. All the information provided on this blog are for educational purposes only.The blog is no way 
    responsible for any misuse of the information.
@@ -21,3 +19,5 @@ permalink: /disclaimer/
 5. Please be ethic everytime you wanna learn hacking, being ethic deserve respect. Don't Hack anyone
    without their permission, don't do anything illegally.
 ```
+
+![Save-Yourself-From-Hacker]({{ 'assets/images/saveyourself.png' | relative_url }})

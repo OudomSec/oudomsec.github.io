@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 ## Past
 ```Description
 I was a Computer Scient Bachelor student at Royal University of Phnom Penh. 
@@ -21,12 +19,11 @@ As a SOC Team Member I've done many things like:
 
 ```Description
 Now I'm working on iOS Mobile development, and Cyber Security still my major thing I need to learn.
-As I learned and Research with cyber security, inspire by my belove senior 0xDaro.
+As I learned and Research with cyber security, I'm inspire by my belove senior 0xDaro.
 I've learn many things from security topic from him, and he gave me an idea to create this blog.
 I hope this blog is useful for everyone who love Cyber Security just like me,
 and might be the useful blog for beginner who love Cyber Security as well.
 ```
-
 <html>
     <body>
         <center>
